@@ -1,10 +1,10 @@
-// This is the email submit click event that sends a thank you message
+// This is the email submit click event that sends a thank you message only
 $('#email-submit').click(function(event){
   event.preventDefault();
   alert('Thank you for signing up!!!');
 });
 
-// This will hide/show the 
+// This will hide/show my car collection
 $(document).ready(function(){
   $("#show-hide-toggle-btn").click(function(){
     var buttonValue = $("#show-hide-toggle-btn").val();
