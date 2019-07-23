@@ -21,19 +21,3 @@ $(document).ready(function(){
   });
 });
 
-// $("#show-hide-toggle-btn").prop('value', 'Save');
-
-// .fadeOut("slow", function() {
-//   // Finished hiding my first Subaru
-//   $("#my-second-subaru").fadeOut("slow", function() {
-//     // Finished hiding my second Subaru
-//   });
-// });
-// });
-// $("#show").click(function(){
-// $("#my-first-subaru").fadeIn("slow", function() {
-//   // Finished hiding my first Subaru
-//   $("#my-second-subaru").fadeIn("slow", function() {
-//     // Finished hiding my second Subaru
-//   });
-// });
